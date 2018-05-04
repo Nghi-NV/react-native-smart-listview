@@ -1,0 +1,27 @@
+{
+  "name": "react-native-smart-listview",
+  "version": "1.0.0",
+  "description": "A component custom libs react-native-smart-pull-to-refresh-listview and react-native-interactable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nghi-NV/react-native-smart-swipe.git"
+  },
+  "keywords": [
+    "react-native",
+    "swipe",
+    "smart swipe"
+  ],
+  "author": "NghiNV",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.54.4"
+  },
+  "dependencies": {
+    "react-native-interactable": "https://github.com/Nghi-NV/react-native-interactable.git",
+    "react-native-smart-pull-to-refresh-listview": "^1.6.11-beta.2"
+  }
+}
