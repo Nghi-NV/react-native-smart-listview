@@ -1,6 +1,6 @@
 {
   "name": "react-native-smart-listview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A component custom libs react-native-smart-pull-to-refresh-listview and react-native-interactable",
   "main": "index.js",
   "scripts": {
